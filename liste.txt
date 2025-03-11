@@ -1,6 +1,6 @@
 Uygulama: WhatsApp
-1. Mesaj gönderme ve alma
+1. Grup sohbetleri
 2. Sesli ve görüntülü arama
-3. Grup sohbetleri
+3. Mesaj gönderme ve alma
 4. Dosya ve medya paylaşımı
 5. Hikayeler(Durum Paylaşımı)
