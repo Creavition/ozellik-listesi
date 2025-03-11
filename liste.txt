@@ -3,3 +3,4 @@ Uygulama: WhatsApp
 2. Sesli ve görüntülü arama
 3. Grup sohbetleri
 4. Dosya ve medya paylaşımı
+5. Hikayeler(Durum Paylaşımı)
